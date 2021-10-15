@@ -105,10 +105,28 @@ main {
     );
     border-radius: 2rem;
 }
+
+hr {
+    width: 300px;
+    margin-top: 40px;
+    border: 1.5px solid #658ec6;
+    border-radius: 5px;
+}
+
+.user h3 {
+    margin-top: 6px;
+    font-size: 1.5rem;
+}
+
+.user p {
+    margin-top: 8px;
+    font-size: 1.2rem;
+}
+
 .user img {
     padding: 5px;
-    height: 105px;
-    width: 105px;
+    height: 125px;
+    width: 125px;
     border-radius: 30px;
 }
 
